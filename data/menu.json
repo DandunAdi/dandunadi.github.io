@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "HOME",
+    "route": "/"
+  },
+  {
+    "id": 2,
+    "title": "PROJECTS",
+    "route": "/projects"
+  },
+  {
+    "id": 3,
+    "title": "THOUGHTS",
+    "route": "/thoughts"
+  },
+  {
+    "id": 4,
+    "title": "BOOKSHELF",
+    "route": "/bookshelf"
+  },
+  {
+    "id": 6,
+    "title": "USES",
+    "route": "/uses"
+  },
+  {
+    "id": 7,
+    "title": "CONTACT",
+    "route": "/contact"
+  }
+]

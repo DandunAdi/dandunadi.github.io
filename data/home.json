@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Hi there! I'm Dandun,",
+    "body": "a software developer living in beautiful cold city Banjarnegara, Indonesia. I became a software developer because I'm drawn to a dynamic career that combines my spark for learning and helping others.\n\n\nWhen I am not coding, I can be found hanging out with my cats, playing badminton, jamming in music studio, browsing memes, or watching anime.",
+    "slug": "welcome-site",
+    "thumbnail": {
+      "url": "/uploads/ddd_660cee78d3.jpg"
+    },
+    "sidelists": []
+  },
+  {
+    "id": 2,
+    "title": "Frontend and beyond.",
+    "body": "While I have dabbled in various languages and frameworks, I have landed on JavaScript and React as my go-to technology. I spend most of my time on the frontend stack but I enjoy working on the backend as well.",
+    "slug": "frontend-and-beyond",
+    "thumbnail": {
+      "url": "/uploads/plane_6e18571656.jpg"
+    },
+    "sidelists": [
+      {
+        "id": 1,
+        "title": "WEB DEVELOPMENT",
+        "items": [
+          {
+            "id": 1,
+            "name": "HTML/CSS/JS"
+          },
+          {
+            "id": 3,
+            "name": "REACT"
+          },
+          {
+            "id": 6,
+            "name": "SASS"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "MOBILE DEVELOPMENT",
+        "items": [
+          {
+            "id": 4,
+            "name": "COCOA TOUCH"
+          },
+          {
+            "id": 5,
+            "name": "SWIFTUI"
+          }
+        ]
+      }
+    ]
+  }
+]
