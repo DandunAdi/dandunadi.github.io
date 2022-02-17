@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "A home is built with love and dreams",
+    "subtitle": "Real estate farm that makes your dreams true"
+  },
+  "about": {
+    "title": "Award winning real estate company in Dubai",
+    "subtitle": "Semper arcu mauris aliquam lacus. Massa erat vitae ultrices pharetra scelerisque. Ipsum, turpis facilisis tempor pulvinar in lobortis ornare magna.",
+    "previousProjects": 34,
+    "yearsExperiences": 20,
+    "onGoingProjects": 12
+  },
+  "projects": {
+    "title": "Ongoing projects",
+    "subtitle": "Turpis facilisis tempor pulvinar in lobortis ornare magna."
+  },
+  "testimonial": {
+    "title": "Few smiles and comment",
+    "subtitle": "Turpis facilisis tempor pulvinar in lobortis ornare magna."
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "subtitle": "Turpis facilisis tempor pulvinar in lobortis ornare magna.",
+    "address": "2118 Thornridge Cir. Dubai, UAE 35624",
+    "phoneNumber": "+33 415 65356 - 9",
+    "email": "contact@lugar.com"
+  }
+}
